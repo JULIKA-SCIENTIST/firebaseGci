@@ -6,6 +6,13 @@ Functions Created and deployed using firebse (serverless application)
 npm install -g firebase-tools
 
 ```
+# Login Firebase using CLI
+```sh
+firebase login
+```
+It will redirect to browser and you need to login using your existing gmail, then it shows success in command prompt.
+
+
 ## Usage
 ```sh
 firebase init
