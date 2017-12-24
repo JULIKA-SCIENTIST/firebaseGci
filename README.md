@@ -7,10 +7,18 @@ Functions Created and deployed using firebse (serverless application)
 git clone https://github.com/JULIKA-SCIENTIST/firebaseGci.git
 ```
 
+# Move to  Working Directory in command Prompt
+```sh
+cd firebaseGci
+```
+# Move to Functions directory
+```sh
+cd functions
+```
+
 # Installation of Firebase in your working directory
 ```sh
 npm install -g firebase-tools
-
 ```
 # Login Firebase using CLI
 ```sh
